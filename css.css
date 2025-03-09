@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    body {
+        text-align: left;
+        padding: 10px;
+    }
+    .card {
+        width: 100%;
+    }
+}
